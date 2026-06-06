@@ -66,9 +66,14 @@ Secure a Software Development / Data Science Internship
 ---
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaym5868&theme=react-dark&bg_color=0D0F1A&color=00F7FF&line=6A00FF&point=00F7FF&hide_border=true"/>
+<img src="https://ghrs.vercel.app/api/top-langs/?username=abhaym5868&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6A00FF&height=3"/>
+
+<br>
+
 
 
 # 🏆 GitHub Trophies
